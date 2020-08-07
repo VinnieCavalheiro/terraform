@@ -1,1 +1,1 @@
-# terraform
+# terraform for AWS and Azure
