@@ -1,8 +1,8 @@
-# Usage ElasticSearch Module
+# Usage ElasticCache Module
 
 
 module "redis" {
-    source = "git@ssh.dev.azure.com:v3/hiae-mda/SRE_MDA/SRE.MDA.TERRAFORM.ELASTICCACHE.REDIS?ref=develop"
+    source = "git@github.com:VinnieCavalheiro/terraform.git"
 
     stack = var.stack
     name = var.name
